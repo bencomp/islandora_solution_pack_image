@@ -42,7 +42,7 @@ Having problems or solved a problem? Check out the Islandora google groups for a
 ## Maintainers/Sponsors
 Current maintainers:
 
-* [Nat Kanthan](https://github.com/Natkeeran)
+* [Natkeeran Ledchumykanthan](https://github.com/Natkeeran)
 
 ## Development
 
